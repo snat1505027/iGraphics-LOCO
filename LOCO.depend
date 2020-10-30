@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1465157537 source:d:\loco\imain.cpp
+	"iGraphics.h"
+	<string.h>
+	<stdio.h>
+	<time.h>
+
+1462108168 d:\loco\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465355411 source:c:\users\hp\desktop\loco\loco\imain.cpp
+	"iGraphics.h"
+	<string.h>
+	<stdio.h>
+	<time.h>
+
+1465316744 c:\users\hp\desktop\loco\loco\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
